@@ -6,7 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title><?php  echo $this->config->item( 'title' );?></title>
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open Sans">
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans">
         <!-- Vendor CSS -->
         <link href="<?php echo base_url()?>assets/vendors/fullcalendar/fullcalendar.css" rel="stylesheet">
         <link href="<?php echo base_url()?>assets/vendors/animate-css/animate.min.css" rel="stylesheet">
